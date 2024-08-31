@@ -2,7 +2,7 @@
 Just paste this into your executor:
 ```lua
 loadstring(
-  game:HttpGet("https://raw.githubusercontent.com/bibalauber/Wall-Hub/main/Rivals.lua")
+  game:HttpGet("https://raw.githubusercontent.com/bibalauber/Wall-Hub/main/loader.lua")
 )()
 ```
 ## Supported Executors
