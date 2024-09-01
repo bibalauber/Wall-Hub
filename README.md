@@ -6,4 +6,4 @@ loadstring(
 )()
 ```
 ## Supported Executors
-I made this script with solrar so i think that every executor should be supported.
+I made this script with solara so i think that every executor should be supported.
