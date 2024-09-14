@@ -1,1 +1,4 @@
-Change Logs:\n + Added Mouse aimbot\n + Fixed ESP\n + Fixed Fly
+Change Logs:
+ + Added Mouse aimbot
+ + Fixed ESP
+ + Fixed Fly
